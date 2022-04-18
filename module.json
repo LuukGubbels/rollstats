@@ -1,0 +1,21 @@
+{
+  "name": "rollstats",
+  "title": "Roll Statistics",
+  "description": "A simple module that will keep track of all roles, and displays them with some statistics.",
+  "system": ["dnd5e", "pf2e"],
+  "author": [
+    { 
+      "name": "HyRoel"
+    },
+    { 
+      "name": "LuukGubbels"
+    }
+  ],
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.8",
+  "scripts": [
+    "scripts/rollstats.js"
+  ],
+  "url": "https://github.com/liviapopper/rollstats",
+  "bugs": "https://github.com/liviapopper/rollstats/issues"
+}
