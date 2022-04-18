@@ -17,8 +17,8 @@
     "scripts/rollstats.js"
   ],
   "url": "https://github.com/LuukGubbels/rollstats",
-  "bugs": "https://github.com/LuukGubbels/rollstats/issues"
-  "download": "https://github.com/LuukGubbels/rollstats/archive/refs/heads/main.zip"
-  "manifest": "https://github.com/LuukGubbels/rollstats/raw/main/module.json"
+  "bugs": "https://github.com/LuukGubbels/rollstats/issues",
+  "download": "https://github.com/LuukGubbels/rollstats/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/LuukGubbels/rollstats/raw/main/module.json",
   "readme": "https://github.com/LuukGubbels/rollstats/blob/main/README.md"
 }
