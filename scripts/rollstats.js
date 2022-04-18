@@ -104,7 +104,7 @@ const getDieResult = (chatMessage) => {
 
 const checkChatMessage = (chatMessage) => {
   // console.log(chatMessage);
-  if (!getStting("track_rolls") === "none") return;
+  if (!getSetting("track_rolls") === "none") return;
   if (chatMessage.isRoll){
 //TODO: handle rerolls
     let [rollName, dieRoll, rollType] = getDieResult(chatMessage);

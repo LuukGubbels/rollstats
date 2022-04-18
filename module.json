@@ -16,6 +16,6 @@
   "scripts": [
     "scripts/rollstats.js"
   ],
-  "url": "https://github.com/liviapopper/rollstats",
-  "bugs": "https://github.com/liviapopper/rollstats/issues"
+  "url": "https://github.com/LuukGubbels/rollstats",
+  "bugs": "https://github.com/LuukGubbels/rollstats/issues"
 }
